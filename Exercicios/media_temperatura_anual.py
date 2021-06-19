@@ -1,3 +1,7 @@
+#calcula a temperatura media do ano e mostra os meses 
+#que tiveram temperatura acima da media
+
+
 mes= ["Janeiro","Fevereiro","Março","Abril","Maio","Junho","Julho","Agosto","Setembro","Outubro","Novembro","Dezembro"]
 M=[]
 ano=0

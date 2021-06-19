@@ -1,3 +1,5 @@
+#dado um tempo em segundos calcula quanto tempo se passou em minutos
+
 def minuto (seg):
 	min=(seg//60)
 	resto=seg%60

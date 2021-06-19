@@ -1,3 +1,5 @@
+#Saber em qual imc a pessoa se encaixa
+
 alt=float(input("Qual sua altura: "))
 peso=float(input("Qual seu peso: "))
 sexo=input("M para masculino e F para feminino: ")

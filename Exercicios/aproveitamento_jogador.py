@@ -1,3 +1,6 @@
+#Colhe o nome de jogadores e seus aproveitamentos de chutes ao gol
+#que foram convertidos em gol. Mostra quem teve melhor aproveitamento
+
 jogador=[]
 aproveitamento=0
 apro=[]

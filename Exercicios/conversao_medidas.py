@@ -1,3 +1,7 @@
+#converte uma medida de km para metros
+#de metros para centimetros
+#de centimetros para metros
+
 def km_metro(km):
 	return float(km*1000)
 km=int(input("Digite a medida em KM: "))

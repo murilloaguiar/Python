@@ -1,3 +1,5 @@
+#adiciona itens em uma lista
+
 lista=[]
 
 for x in range (1,6):

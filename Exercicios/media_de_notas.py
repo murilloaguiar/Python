@@ -1,3 +1,5 @@
+#Calcular a média de tres notas de um aluno. Menor que 7 é reprovado
+
 n1=int(input("Nota1: "))
 n2=int(input("Nota2: "))
 n3=int(input("Nota3: "))

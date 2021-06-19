@@ -1,3 +1,5 @@
+#Calcular peso ideal pelo imc
+
 alt=float(input("Qual sua altura?"))
 sexo=str(input("Qual seu sexo?M para Masculino e F para Feminino "))
 if sexo=="M":

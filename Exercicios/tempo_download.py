@@ -1,3 +1,6 @@
+#Calcular o tempo de download de um arquivo com base no seu tamanho
+#em megabytes e pela velocidade da internet
+
 arq=float(input("Qual o tamanho do arquivo em MB?"))
 net=float(input("Qual a velocidade em Mbps(megabits) da sua internet: "))
 

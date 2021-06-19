@@ -1,3 +1,5 @@
+#soma os numeros de uma matriz
+
 matriz = []
 for x in range (0,5):
 	linha=[]

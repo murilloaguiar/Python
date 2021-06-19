@@ -1,3 +1,6 @@
+#coleta nome de alunos e suas notas, calcula a media e no fim
+#mostra quais alunos tiveram media acima de 7
+
 aluno=[]
 med=0
 media=[]

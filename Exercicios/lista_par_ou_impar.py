@@ -1,3 +1,6 @@
+#com base em uma lista de numeros separa numeros impares e pares
+#em lista independentes
+
 lista=[]
 par=[]
 impar=[]
